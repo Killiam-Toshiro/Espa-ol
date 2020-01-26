@@ -22,7 +22,7 @@
   "tribepicker.tba": "WIP",
   "tribepicker.underconstruction": "Pronto ...",
   "tribepicker.underconstruction.description": "Todavía estamos trabajando en esta tribu. Plantamos fruta, creamos lenguaje y arquitectura, lo que lleva algo de tiempo. ¡Revise regularmente @Midjiwan en Instagram o Twitter para ser el primero en conocerlo!"
-  "tribepicker.freetribe" : "Tribu libre",
+  "tribepicker.freetribe"; "Tribu libre",
   "tribepicker.freetribe.description": "Esta tribu es gratuita y no se puede usar para activar el modo multijugador",
   "tribepicker.taken": "Ocupado",
   "tribepicker.enable": "ACTIVAR",
