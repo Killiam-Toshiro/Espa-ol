@@ -119,7 +119,7 @@
   "world.turn.waiting.unknown": "Esperando a que juegue una tribu desconocida...",
   "world.turn.ready": "Pulse guardar cuando esté listo",
   "world.turn.your": "Tu turno",
-  "world.turn.remaining": "{0} gira a la izquierda",
+  "world.turn.remaining": "{0} turnos faltan",
   "world.turn.last": "¡Último turno!",
   "world.turn.replaying": "Volver a jugar...",
   "world.unit.info.from": "Desde la ciudad de {0}.",
